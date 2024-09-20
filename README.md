@@ -1,4 +1,6 @@
 Hii there, I'm Hrithik Yadav
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px"/>
+
 # 💫 About Me:
 I'm a skilled front end developer in React.js.<br>I'm currently working on Python.<br>I'm looking to collaborate on open source real time projects on React.<br>I have done DSA problem solving in C++<br>
 
