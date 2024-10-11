@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm a skilled front end developer in React.js.<br>I'm currently working on Python.<br>I'm looking to collaborate on open source real time projects on React.<br>I have done DSA problem solving in C++<br>
+I'm a skilled front end developer in React.js.<br>I'm currently working on my problem solving skills.<br>I'm looking to collaborate on open source real time projects on React.<br>I have done DSA problem solving in C++<br>
 
 
 # 💻 Tech Stack:
